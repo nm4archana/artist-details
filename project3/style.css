@@ -1,0 +1,77 @@
+.caption p{
+	text-align: center;
+}
+
+.col-md-6 h4
+{
+	color: red;
+}
+
+#plain
+{
+	background: white;
+  	color: 337AFF;
+    border-color: ABADB0;
+}
+
+
+table {
+      border-collapse: collapse;
+      width: 100%;
+  }
+
+  .highlight { background-color:#FFFF00; }
+
+  #productdetails thead {
+      border: 1px solid #dddddd;
+      text-align: left;
+
+  }
+  #productdetails thead td
+  {
+  padding: 12px;
+  background-color: #D8D8D8 ;
+  }
+
+  #artistdetails thead 
+  {
+      border: 1px solid #dddddd;
+      text-align: left;
+
+  }
+  #artistdetails thead td
+  {
+  padding: 12px;
+  background-color: #D8D8D8 ;
+  }
+
+  
+  .modal-dialog 
+  {
+    height: 75%;
+  }
+  
+  #sales thead th
+  {
+  border: 1px solid #dddddd;
+  padding: 12px;
+  background-color: #cce6ff ;
+  border-color: 3366BB;
+  color:3366BB; 
+  }
+  #sales tbody 
+  {
+  border: 1px solid #dddddd;
+  border-color: 3366BB;
+  text-indent: 10;
+  }
+  #productdetails tbody td
+  {
+  padding: 8px;
+  }
+  #productdetails tbody tr
+  { 
+  border: 1px solid #dddddd;
+  } 
+  #artistdetails tbody td{padding: 8px;}
+    #artistdetails tbody tr{border: 1px solid #dddddd;}
